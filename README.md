@@ -1,1 +1,1 @@
-# DGC
+≠ Decentralized Global Currency ≠
