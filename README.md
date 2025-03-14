@@ -1,1 +1,1 @@
-≠ Decentralized Global Currency ≠
+✶ Decentralized Global Currency ✶
