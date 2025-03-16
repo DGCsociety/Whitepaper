@@ -5,11 +5,12 @@ Symbol     : DGC
 DGC is a utility token based on the Solana Program Library (SPL), designed to serve as a universal digital currency within a decentralized blockchain ecosystem. Leveraging Solana’s advantages, such as high throughput and minimal transaction costs, DGC aims to provide a fast, secure, and inclusive cross-border payment solution, eliminating reliance on traditional financial systems.
 
 ✶ TECHNICAL DETAILS
-Token Standard            : SPL (Solana Program Library)
-Total Supply              : 27,000,000,000 DGC
-Decimals                  : 6
-Token Address             : xxxxx
-Mint and Freeze Authority : Revoked
+Token Standard   : SPL (Solana Program Library)
+Total Supply     : 27,000,000,000 DGC
+Decimals         : 6
+Token Contract   : Coming soon...
+Mint Authority   : Revoked
+Freeze Authority : Revoked
 
 ✶ TOKEN DISTRIBUTION
 Liquidity locked forever : 95 %
