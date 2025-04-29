@@ -7,7 +7,7 @@ DGC is a utility token based on the Solana Program Library (SPL), designed to se
 ✓ TECHNICAL DETAILS
 Total Supply            : 1,000,000,000,000 DGC
 Decimals                : 6
-Smallest Unit           : Cent
+Smallest Unit           : Sen
 Blockchain              : Solana
 Token Contract Address  : DG1VaAZsBNYBsLkdbxD4meS8y867SMVAe7FxSKEnuruN
 Mint Authority          : Revoked
