@@ -12,6 +12,7 @@ Blockchain              : Solana
 Token Contract Address  : DG1VaAZsBNYBsLkdbxD4meS8y867SMVAe7FxSKEnuruN
 Mint Authority          : Revoked
 Freeze Authority        : Revoked
+Update Authority        : Revoked
 
 ✓ KEY FEATURES
 Compatibility  : Integrated with Solana wallets such as Phantom, Solflare, and apps based on Solana Pay.
